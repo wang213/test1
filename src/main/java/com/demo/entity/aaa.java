@@ -8,5 +8,9 @@ public class aaa {
 
     public static void main(String[] args) {
         int aa = 20;
+        System.out.println(1);
+        System.out.println(11);
+        System.out.println(12);
+        System.out.println(13);
     }
 }
